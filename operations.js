@@ -9,3 +9,7 @@ console.log(val);
 const ans = (a,b) => {
     return a-b;
 }
+
+const result = () => {
+    return 5*4;
+}
