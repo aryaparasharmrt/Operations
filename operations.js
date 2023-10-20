@@ -1,4 +1,5 @@
 
+// Addition Function Added
 const val = function add(a, b) {
     return a + b;
 }
