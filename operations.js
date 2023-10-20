@@ -5,7 +5,7 @@ const val = function add(a, b) {
 
 console.log(val);
 
-
+// Function to subtract two numbers
 const ans = (a,b) => {
     return a-b;
 }
